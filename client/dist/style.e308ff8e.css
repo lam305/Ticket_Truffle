@@ -1,0 +1,10 @@
+#tickets {
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
